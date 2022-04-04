@@ -1,3 +1,4 @@
+prompt("inserisci una parola");
 let parola = "Kayak";
 let lparola = parola.legth();
 let lparola1 = '';

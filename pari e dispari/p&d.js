@@ -1,5 +1,5 @@
-let gioco = prompt ("scrivi 1 per dispari e 0 per pari");
-let gioco1 = prompt("inserisci un valore da 1 a 5");
+prompt ("scrivi 1 per dispari e 0 per pari");
+ prompt("inserisci un valore da 1 a 5");
 let utente ='';
 let valore1= 1;
 let valore2 = 0;
